@@ -1,0 +1,7 @@
+const config =
+{
+  API_KEY: "401388997:AAH0jilJgSvUH8Oq9J_NJ9MLpK6s6rGjmjU"
+}
+
+
+export default config;
